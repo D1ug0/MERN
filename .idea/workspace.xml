@@ -20,7 +20,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cfd4275-1231-45f9-927d-c8a7c0f7c55f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/Pages/AuthPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Pages/CreatePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Pages/DetailPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/Pages/LinksPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/hooks/http.hook.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcryptjs/dist/bcrypt.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcryptjs/dist/bcrypt.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcryptjs/dist/bcrypt.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcryptjs/dist/bcrypt.min.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcryptjs/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcryptjs/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcryptjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcryptjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bcryptjs/tests/quickbrown.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bcryptjs/tests/quickbrown.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/auth_routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/auth_routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +87,10 @@
       <workItem from="1605790173346" duration="220000" />
       <workItem from="1605790421688" duration="505000" />
       <workItem from="1605790951260" duration="115000" />
+      <workItem from="1605791198773" duration="295000" />
+      <workItem from="1605802516371" duration="3180000" />
+      <workItem from="1605806435905" duration="4705000" />
+      <workItem from="1605811235436" duration="5105000" />
     </task>
     <servers />
   </component>
@@ -90,6 +113,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="779" y="91" key="#Inspections" timestamp="1605804405312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="779" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1605804405312" />
     <state x="883" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605708954918">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
